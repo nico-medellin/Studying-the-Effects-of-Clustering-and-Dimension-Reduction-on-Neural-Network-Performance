@@ -4,7 +4,8 @@
 
 Overleaf link: https://www.overleaf.com/read/gfqtfdtzcckn#02f1cf
 
-github pr: 
+github commit:  https://github.gatech.edu/gt-omscs-ml/cs-7641-2025-spring-imedellin3/commit/3ad66feba33a8a756584f6d2cce1f1aac7594dae
+
 
 
 Run workbooks assignment_3.ibynb, Component_Analysis_CPA.ibynb, and Component_Analysis_spotify.ibynb. 

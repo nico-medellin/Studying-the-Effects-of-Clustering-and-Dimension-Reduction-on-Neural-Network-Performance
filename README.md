@@ -3,6 +3,9 @@
 ## Project Overview
 This machine learning project explores unsupervised learning techniques by implementing and comparing clustering algorithms and dimensionality reduction methods on real-world datasets.
 
+
+Read my final report [here](https://github.com/nico-medellin/Studying-the-Effects-of-Clustering-and-Dimension-Reduction-on-Neural-Network-Performance/blob/main/Studying%20the%20Effects%20of%20Clustering%20and%20Dimension%20Reduction%20on%20Neural%20Network%20Performance.pdf)
+
 ## Key Components
 
 ### **Algorithms Implemented**
